@@ -1,0 +1,13 @@
+Target: sp|Q6GZX4|001R_FRG3G Putative transcription factor 001R OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-001R PE=4 SV=1 (len=256)
+rank combined      %id   cosine  header
+   1 0.972031 1.000000 0.930078  sp|Q53K52|PRDA1_ORYSJ Protein PEP-RELATED DEVELOPMENT ARRESTED 1 homolog, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0425300 PE=2 SV=1
+   2 0.962586 1.000000 0.906466  sp|A0A6F8RQ06|GRGF_PENSQ Polyketide transferase grgF OS=Penicillium sp. OX=5081 GN=grgF PE=1 SV=1
+   3 0.920852 1.000000 0.802130  sp|Q9C5G0|SUF4_ARATH Protein SUPPRESSOR OF FRI 4 OS=Arabidopsis thaliana OX=3702 GN=SUF4 PE=1 SV=1
+   4 0.915564 1.000000 0.788909  sp|Q28746|CSF3_SHEEP Granulocyte colony-stimulating factor OS=Ovis aries OX=9940 GN=CSF3 PE=2 SV=1
+   5 0.914927 1.000000 0.787318  sp|P06305|PAHO_ALLMI Pancreatic polypeptide OS=Alligator mississippiensis OX=8496 GN=ppy PE=1 SV=1
+   6 0.883420 1.000000 0.708550  sp|P83605|BMTI4_RHIMP Kunitz-type serine protease inhibitor 4 (Fragment) OS=Rhipicephalus microplus OX=6941 PE=1 SV=1
+   7 0.860382 0.800000 0.950955  sp|Q2Y6Z3|UBIG_NITMU Ubiquinone biosynthesis O-methyltransferase OS=Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849 / C 71) OX=323848 GN=ubiG PE=3 SV=1
+   8 0.852013 0.800000 0.930032  sp|Q8SUL0|SDO1_ENCCU Ribosome maturation protein SDO1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=SDO1 PE=1 SV=1
+   9 0.851986 0.800000 0.929966  sp|A7XXB7|TERL_BP234 Terminase, large subunit OS=Thermus virus P23-45 OX=2914006 GN=P23p85 PE=3 SV=1
+  10 0.851964 0.800000 0.929910  sp|Q81ZZ2|UBIG_NITEU Ubiquinone biosynthesis O-methyltransferase OS=Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298) OX=228410 GN=ubiG PE=3 SV=1
+wrote: results.csv
