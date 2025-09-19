@@ -1,6 +1,6 @@
 # Лабораторная работа №1
 
-Выполнили работу: Егорова Алиса и Мария Пишикина
+Выполнили работу: Егорова Алиса и Пишикина Мария
 
 Лаборторная работа состоит из двух файлов: preprocess.py (отвечает за предобработку) и compute_cosine.py  
 
@@ -25,12 +25,12 @@
 
 ## Запуск
 
-шаг 1: предобработка
+шаг 1: предобработка 
 ```
 python preprocess.py --fasta uniprot_sprot.fasta --target-header "sp|Q6GZX4|001R_FRG3G" --out test.preproc.tsv
 ```
     
-шаг 2: расчёт метрик
+шаг 2: расчёт метрики (косинусовое)
 ```
 python compute_cosine.py --preprocessed test.preproc.tsv --top 10 --w-match 0.6 --w-cos 0.4 --out results.csv
 ```
